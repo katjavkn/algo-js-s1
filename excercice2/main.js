@@ -12,3 +12,4 @@ switch (a) {
     default:
         console.log("égal à rien")
     }
+ 
